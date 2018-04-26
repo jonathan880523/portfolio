@@ -37,7 +37,7 @@ Spring MVC처리, MyBatis 연동, Spring Tool Suite</li>
 <a href="https://github.com/jonathan880523/movieEro">[영화관 서비스]</a>
 <ul>
   <li><strong>개요</strong><br>
-    기본적인 영화 예매 사이트에 대관 서비스, 실시간 통신 서비스를 추가하여 색다른 영화 페이지</li><br>
+    기본적인 영화 예매 사이트에 대관 서비스, 실시간 통신 서비스를 추가한 색다른 영화 페이지</li><br>
   <li><strong>개인 구축 내용</strong><br>
     영화 정보를 표시해주는 페이지 구현<br>
     리뷰 페이지 구현<br>
