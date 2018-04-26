@@ -8,8 +8,10 @@
 DML, DDL, DCL, subquery, join, view, PL/SQL , 기본문법 학습</li><br>
   <li><strong>JDBC</strong><br>
 JDBC연동순서, 각 클래스의 역할, Type별 driver 특징 설명, transaction의 처리방법 학습</li><br>
-  <li><strong>JavaScript / jQuery / HTML 5 / CSS3</strong><br>
- JavaScript 기본 문법, function,jQuery웹서비스 활용 ,Prototype 및 웹표준 기반의 HTML5 마크업, CSS3스탕일링, AngularJS 기본 문법 학습</li><br>
+  <li><strong>JavaScript / HTML 5 / CSS3</strong><br>
+ JavaScript 기본 문법, function, Prototype 및 웹표준 기반의 HTML5 마크업, CSS3스타일링</li><br>
+  <li><strong>jQuery / jQueryUI / Bootstrap / Ajax / JSON / XML /GoogleMap</strong><br>
+ jQuery웹서비스 활용, Ajax XMLHttpRequest서버와의 통신 이해, GoogleMap등 오픈API활용, JSON 파싱 학습</li><br>
   <li><strong>Servlet / JSP / JSTL / EL</strong><br>
 MVC기반 Web serivce구현, Container의 사용법, Java Web Service시 폴더구성,<br>
 Servlet 작성법 및 요청과 응답의 사용(HttpServletRequest, HttpServletResponse), EL, JSTL 학습</li><br>
@@ -17,3 +19,4 @@ Servlet 작성법 및 요청과 응답의 사용(HttpServletRequest, HttpServlet
 Spring4.0의 특징 및 모듈 설정, Spring DI 객체간의 의존성 주입에 대한 이해와 실습,<br>
 Spring MVC처리, MyBatis 연동, Spring Tool Suite</li>
 </ul>
+ (80시간)
