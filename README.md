@@ -19,4 +19,6 @@ Servlet 작성법 및 요청과 응답의 사용(HttpServletRequest, HttpServlet
 Spring4.0의 특징 및 모듈 설정, Spring DI 객체간의 의존성 주입에 대한 이해와 실습,<br>
 Spring MVC처리, MyBatis 연동, Spring Tool Suite</li>
 </ul>
- (80시간)
+<hr>
+<h3>프로젝트</h3>
+[영화관 관리자 페이지](https://github.com/jonathan880523/adminMovieEro)
