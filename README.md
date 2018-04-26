@@ -21,15 +21,25 @@ Spring MVC처리, MyBatis 연동, Spring Tool Suite</li>
 </ul>
 <hr>
 <h3>프로젝트</h3>
-<a href="https://github.com/jonathan880523/adminMovieEro">[영화관 관리자 페이지]</a>
+<a href="https://github.com/jonathan880523/adminMovieEro">[영화관 관리자 서비스]</a>
 <ul>
   <li><strong>개요</strong><br>
     영화 상영작을 등록하고 리뷰, 공지사항, 회원정보등을 편하게 관리할 수 있는 관지라 페이지</li><br>
   <li><strong>개인 구축 내용</strong><br>
+    따로 회원가입은 없으며, 세션을 사용해 로그인 하도록 구현<br>
     네이버 영화 검색 API를 사용해 영화를 검색해 등록할 수 있도록 구축<br>
     영화관 페이지에서 리뷰를 작성하면, 리스트를 불러오고, 삭제할 수 있도록 구축<br>
     네이버 영화 검색 API에서 제공되는 내용 중 부족한 정보를 네이버 영화 페이지에서 web scraping을 통해<br>
     더 자세한 정보를 가져오도록 구축<br>
     영화가 등록되면 메인 페이지에, 등록된 영화, 리뷰, 트레일러, 스틸컷 정보 표시하도록 
+  </li><br>
+</ul>
+<a href="https://github.com/jonathan880523/movieEro">[영화관 서비스]</a>
+<ul>
+  <li><strong>개요</strong><br>
+    기본적인 영화 예매 사이트에 대관 서비스, 실시간 통신 서비스를 추가하여 색다른 영화 페이지</li><br>
+  <li><strong>개인 구축 내용</strong><br>
+    영화 정보를 표시해주는 페이지 구현<br>
+    리뷰 페이지 구현<br>
   </li><br>
 </ul>
