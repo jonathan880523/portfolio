@@ -21,4 +21,4 @@ Spring MVC처리, MyBatis 연동, Spring Tool Suite</li>
 </ul>
 <hr>
 <h3>프로젝트</h3>
-[영화관 관리자 페이지](https://github.com/jonathan880523/adminMovieEro)
+<a href="https://github.com/jonathan880523/adminMovieEro">[영화관 관리자 페이지]</a>
