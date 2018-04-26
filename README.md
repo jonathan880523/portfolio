@@ -22,4 +22,6 @@ Spring MVC처리, MyBatis 연동, Spring Tool Suite</li>
 <hr>
 <h3>프로젝트</h3>
 <a href="https://github.com/jonathan880523/adminMovieEro">[영화관 관리자 페이지]</a>
-<ul><li style="list-style-type:circle"></ul>
+<ul>
+  <li>영화 상영작을 등록하고 리뷰, 공지사항, 회원정보등을 편하게 관리할 수 있는 관지라 페이지</li>
+</ul>
