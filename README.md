@@ -43,3 +43,10 @@ Spring MVC처리, MyBatis 연동, Spring Tool Suite</li>
     리뷰 페이지 구현<br>
   </li><br>
 </ul>
+
+<a href="https://github.com/jonathan880523/ex01">[교재 실습(코드로 배우는 스프링 웹 프로젝트) 기본 CRUD 게시판]</a>
+<ul>
+  <li><strong>개요</strong></li>
+  <li>기본 CRUD 게시판</li>
+  <li>페이징 처리</li>
+</ul>
